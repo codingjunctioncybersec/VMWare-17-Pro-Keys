@@ -13,3 +13,34 @@ JC0D8-F93E4-HJ9Q9-088N6-96A7F
 NG0RK-2DK9L-HJDF8-1LAXP-1ARQ0
 0U2J0-2E19P-HJEX1-132Q2-8AKK6
 ```
+
+# VMware Workstation Resources
+
+This repository contains educational resources, documentation, and setup guidance for VMware Workstation and virtualization labs.
+
+## Contents
+
+* VMware installation notes
+* Virtual machine setup guides
+* Networking configuration
+* Snapshot and backup tips
+* Lab best practices
+* Troubleshooting documentation
+
+## Requirements
+
+* VMware Workstation (licensed or trial version obtained from the official VMware website)
+* Windows or Linux host
+* Sufficient RAM and storage
+
+## Disclaimer
+
+This repository is intended for educational purposes only. Obtain VMware Workstation through official channels and use a valid license or an officially provided trial in accordance with the software's license agreement.
+
+## Maintainer
+
+**Coding Junction**
+
+* YouTube: https://youtube.com/@CodingJunctionOfficial
+* Instagram: https://instagram.com/codingjunction.official
+* GitHub: https://github.com/codingjunctioncybersec
